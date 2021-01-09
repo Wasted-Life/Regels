@@ -1,4 +1,4 @@
-# Algemene Regelsa
+# Algemene Regels
 <b>VDM</b> (Vehicle Deathmatch) › Het doden van een persoon doormiddel van een auto en/of helikopter is niet toegestaan.
 
 <b>RDM</b> (Random Deathmatch) › Het doden van een persoon zonder voorafgaande roleplay is niet toegestaan. 
