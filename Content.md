@@ -1,0 +1,15 @@
+# Content
+
+<b>Opnames</b> › Je mag opnames maken zonder een Streamer Rol.<br> 
+Als je die rol niet hebt is het niet toegestaan om reclame te maken voor je content.<br> 
+Deze rol kan je aanvragen via een ticket.
+
+<b>Streamsnipen</b> › Streamsnipen is niet toegestaan. Hier zijn een paar voorbeelden van streamsnipen:
+- Het achtervolgen van een streamer
+- Persoon bij zijn irl naam noemen inplaats van zijn ingame naam
+- Het opzoeken van de persoon via de stream
+- In chat zijn irl naam noemen
+
+<b>Copyright</b> › Er mag geen copyright content te zien zijn op jouw content.<br> 
+
+© 2021 Wasted Life
