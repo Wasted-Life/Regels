@@ -78,3 +78,6 @@
      ➥ Worden je Communicatie middelen afgepakt dien je jezelf te muten in discord hierbij zal ook je bodycam moeten worden afgesloten.<br>
      ➥ Praat je in je oortje zorg ervoor dat je dit ook ingame doet als er mensen in je buurt zijn. <br>
      ➥ Kijkt iemand mee op je telefoon dan mag je de politie niet bellen of sms’en.    <br>
+
+
+© 2021 Wasted Life
