@@ -15,3 +15,4 @@ dus erin gaan schieten en gelijk eruit gaan in de hoop niet gekilled te worden g
 <b>Wanneer starten</b> › Vanaf 25 man online mag je een turf starten.
 
 © 2021 Wasted Life
+
