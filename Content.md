@@ -13,3 +13,4 @@ Deze rol kan je aanvragen via een ticket.
 <b>Copyright</b> › Er mag geen copyright content te zien zijn op jouw content.<br> 
 
 © 2021 Wasted Life
+
