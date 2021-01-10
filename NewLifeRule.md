@@ -2,7 +2,8 @@
 
 <b>Doodverklaard</b> › Als je dood bent gegaan of dood verklaard bent door een <br>
 Politieagent of een Stafflid ben je alles vergeten van je voorafgaande scenario. <br>
-Je mag ook niet meer meedoen met dit huidige scenario. Je mag 20 minuten lang niet meer op dezelfde locatie komen. <br>
+Je mag ook niet meer meedoen met dit huidige scenario. <br>
+Je mag 20 minuten lang niet meer op dezelfde locatie komen. <br>
 Als de 20 minuten om zijn en het scenario is nog bezig mag je hier nog steeds niet komen. <br>
 
 <b>Wanneer Gaat De New Life Rule In</b> › 
